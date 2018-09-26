@@ -19,7 +19,7 @@ mod 'puppetlabs/java',        '1.6.0'
 
 mod 'ssh',
   :git => 'https://github.com/fdrock/puppet-ssh.git',
-  :ref => 'master'
+  :ref => 'master',
 
 mod 'ntp',
   :git => 'https://github.com/fdrock/puppet-ntp.git',
