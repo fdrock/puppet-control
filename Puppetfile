@@ -24,4 +24,3 @@ mod 'ssh',
 #mod 'ntp',
 #  :git => 'https://github.com/fdrock/puppet-ntp.git',
 #  :ref => 'master',
-
